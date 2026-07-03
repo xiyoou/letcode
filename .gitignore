@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.out
+*.o
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.swp
+*~
